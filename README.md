@@ -25,3 +25,4 @@ The application will also permit users to personalize the report layout, font, a
 
 
 *OUTPUT*
+![Image](https://github.com/user-attachments/assets/d088aa0c-1a1b-4698-9fc5-b117c53f0a80)
